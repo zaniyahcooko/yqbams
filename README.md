@@ -3,16 +3,17 @@
 这里汇总仓库内已经发布的内容，可按分类逐层浏览。
 
 <!-- gitflow:articles:start -->
-共收录 **486** 篇内容，按 **1** 个分类整理。
+共收录 **487** 篇内容，按 **1** 个分类整理。
 
 ## 分类导航
 
 | 分类 | 文章数 | 索引 |
 | --- | ---: | --- |
-| 加拿大pc28预测 | 486 | [查看分类文章](category-%E5%8A%A0%E6%8B%BF%E5%A4%A7pc28%E9%A2%84%E6%B5%8B.md) |
+| 加拿大pc28预测 | 487 | [查看分类文章](category-%E5%8A%A0%E6%8B%BF%E5%A4%A7pc28%E9%A2%84%E6%B5%8B.md) |
 
 ## 最近发布
 
+- [2027年9月权威机构预测:北京𝓅𝒸𝟚𝟠两期计划-香江财经](https://github.com/zaniyahcooko/yqbams/blob/main/2027%E5%B9%B49%E6%9C%88%E6%9D%83%E5%A8%81%E6%9C%BA%E6%9E%84%E9%A2%84%E6%B5%8B-%E5%8C%97%E4%BA%AC%F0%9D%93%85%F0%9D%92%B8%F0%9D%9F%9A%F0%9D%9F%A0%E4%B8%A4%E6%9C%9F%E8%AE%A1%E5%88%92-%E9%A6%99%E6%B1%9F%E8%B4%A2%E7%BB%8F.md) · 加拿大pc28预测 <!-- gitflow:article:40b174e79ebc9fa4c380b946dda39dd0fb5593efea1bb3d86e9f77689b3f3653 -->
 - [2026年9月专家团队预测:𝐩𝐜𝟐𝟖单双永久算法-宝汇财经](https://github.com/zaniyahcooko/yqbams/blob/main/2026%E5%B9%B49%E6%9C%88%E4%B8%93%E5%AE%B6%E5%9B%A2%E9%98%9F%E9%A2%84%E6%B5%8B-%F0%9D%90%A9%F0%9D%90%9C%F0%9D%9F%90%F0%9D%9F%96%E5%8D%95%E5%8F%8C%E6%B0%B8%E4%B9%85%E7%AE%97%E6%B3%95-%E5%AE%9D%E6%B1%87%E8%B4%A2%E7%BB%8F.md) · 加拿大pc28预测 <!-- gitflow:article:e7e90f4c50770877e4c3203be34314c63511bfb1074727ca6668583bd39981c5 -->
 - [2027年9月深度精选预测:𝔭𝔠𝟚𝟠彩票加拿大-利盛财经](https://github.com/zaniyahcooko/yqbams/blob/main/2027%E5%B9%B49%E6%9C%88%E6%B7%B1%E5%BA%A6%E7%B2%BE%E9%80%89%E9%A2%84%E6%B5%8B-%F0%9D%94%AD%F0%9D%94%A0%F0%9D%9F%9A%F0%9D%9F%A0%E5%BD%A9%E7%A5%A8%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E5%88%A9%E7%9B%9B%E8%B4%A2%E7%BB%8F.md) · 加拿大pc28预测 <!-- gitflow:article:834048df7dad8dd699d2152f9c4e0835842dc7fe56fe5d8d3c451408d5e321a3 -->
 - [2026年9月破局预测:加拿大𝚙𝚌𝟸𝟾二维码图片-云投财经](https://github.com/zaniyahcooko/yqbams/blob/main/2026%E5%B9%B49%E6%9C%88%E7%A0%B4%E5%B1%80%E9%A2%84%E6%B5%8B-%E5%8A%A0%E6%8B%BF%E5%A4%A7%F0%9D%9A%99%F0%9D%9A%8C%F0%9D%9F%B8%F0%9D%9F%BE%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%9B%BE%E7%89%87-%E4%BA%91%E6%8A%95%E8%B4%A2%E7%BB%8F.md) · 加拿大pc28预测 <!-- gitflow:article:f908108d6adc56f48cb297e5daec7d0da6bb180f29c4258c532e5b9faa99b3c5 -->
@@ -22,5 +23,4 @@
 - [2026年9月重磅独家预测:加拿大𝐩𝐜𝟐𝟖单双算法-融算财经](https://github.com/zaniyahcooko/yqbams/blob/main/2026%E5%B9%B49%E6%9C%88%E9%87%8D%E7%A3%85%E7%8B%AC%E5%AE%B6%E9%A2%84%E6%B5%8B-%E5%8A%A0%E6%8B%BF%E5%A4%A7%F0%9D%90%A9%F0%9D%90%9C%F0%9D%9F%90%F0%9D%9F%96%E5%8D%95%E5%8F%8C%E7%AE%97%E6%B3%95-%E8%9E%8D%E7%AE%97%E8%B4%A2%E7%BB%8F.md) · 加拿大pc28预测 <!-- gitflow:article:c6adb3e2926258929eeba1ad388ea078d310e35877bd4c4e9959d4f8d93eed55 -->
 - [2026年9月官方深度预测:𝕡𝕔𝟚𝟠经典规律算法-泰山财经](https://github.com/zaniyahcooko/yqbams/blob/main/2026%E5%B9%B49%E6%9C%88%E5%AE%98%E6%96%B9%E6%B7%B1%E5%BA%A6%E9%A2%84%E6%B5%8B-%F0%9D%95%A1%F0%9D%95%94%F0%9D%9F%9A%F0%9D%9F%A0%E7%BB%8F%E5%85%B8%E8%A7%84%E5%BE%8B%E7%AE%97%E6%B3%95-%E6%B3%B0%E5%B1%B1%E8%B4%A2%E7%BB%8F.md) · 加拿大pc28预测 <!-- gitflow:article:35f31ebefb90f00d7de5e898b0b8b565323f0a006c47a52904d012e6d8ece6e9 -->
 - [2027年9月常胜将军预测:𝔭𝔠𝟚𝟠漏洞-潮流财经](https://github.com/zaniyahcooko/yqbams/blob/main/2027%E5%B9%B49%E6%9C%88%E5%B8%B8%E8%83%9C%E5%B0%86%E5%86%9B%E9%A2%84%E6%B5%8B-%F0%9D%94%AD%F0%9D%94%A0%F0%9D%9F%9A%F0%9D%9F%A0%E6%BC%8F%E6%B4%9E-%E6%BD%AE%E6%B5%81%E8%B4%A2%E7%BB%8F.md) · 加拿大pc28预测 <!-- gitflow:article:2c833fb6410b2be4ae4e042d3bcf909a2a1077971e7199dbcdf53b93ac2cdb6a -->
-- [2027年9月实力模型预测:𝓅𝒸𝟚𝟠软件机器人-中盛财经](https://github.com/zaniyahcooko/yqbams/blob/main/2027%E5%B9%B49%E6%9C%88%E5%AE%9E%E5%8A%9B%E6%A8%A1%E5%9E%8B%E9%A2%84%E6%B5%8B-%F0%9D%93%85%F0%9D%92%B8%F0%9D%9F%9A%F0%9D%9F%A0%E8%BD%AF%E4%BB%B6%E6%9C%BA%E5%99%A8%E4%BA%BA-%E4%B8%AD%E7%9B%9B%E8%B4%A2%E7%BB%8F.md) · 加拿大pc28预测 <!-- gitflow:article:5119a7663d5a29d9c9862b22eda4a2c086853186580cb28057706339e083e5f1 -->
 <!-- gitflow:articles:end -->
